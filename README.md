@@ -1,4 +1,4 @@
-# Patrone Chain of Responsability
+# Patrón Chain of Responsability
 
 Es un patrón de diseño de comportamiento que te 
 permite pasar solicitudes a lo largo de una cadena de

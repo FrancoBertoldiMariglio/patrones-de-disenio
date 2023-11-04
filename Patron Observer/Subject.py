@@ -1,0 +1,20 @@
+from __future__ import annotations
+from abc import ABC, abstractmethod
+from random import randrange
+from typing import List
+from Observer import Observer
+
+
+class Subject(ABC):
+
+    @abstractmethod
+    def attach(self, observer: Observer) -> None:
+        pass
+
+    @abstractmethod
+    def detach(self, observer: Observer) -> None:
+        pass
+
+    @abstractmethod
+    def notify(self) -> None:
+        pass

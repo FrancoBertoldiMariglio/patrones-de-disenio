@@ -2,8 +2,7 @@ from __future__ import annotations
 from abc import ABC, abstractmethod
 
 
-class Observer(ABC):
-
+class Product(ABC):
     @abstractmethod
-    def update(self) -> None:
+    def read(self, file) -> str:
         pass

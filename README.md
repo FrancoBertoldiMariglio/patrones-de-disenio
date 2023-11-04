@@ -1,4 +1,4 @@
-# Patron Command
+# Patón Command
 
 Es un patrón de diseño de comportamiento que 
 convierte una solicitud en un objeto independiente 

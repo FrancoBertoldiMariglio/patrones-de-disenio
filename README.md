@@ -1,17 +1,6 @@
-# Patrones de diseño
-Repositorio para proyecto sobre patrones de diseño
+# Patrón Obsever
 
-## Patrones
-
-- Observer
-- Factory Method
-- Abstract Factory
-- Command
-- Builder
-- Chain of responsability
-
-## Autor
-
-Franco Bertoldi Mariglio
-
-Legajo: 61163
+Es un patrón de diseño de comportamiento 
+que te permite definir un mecanismo de suscripción 
+para notificar a varios objetos sobre cualquier 
+evento que le suceda al objeto que están observando.

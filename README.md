@@ -1,17 +1,9 @@
-# Patrones de diseño
-Repositorio para proyecto sobre patrones de diseño
+# Patron Command
 
-## Patrones
-
-- Observer
-- Factory Method
-- Abstract Factory
-- Command
-- Builder
-- Chain of responsability
-
-## Autor
-
-Franco Bertoldi Mariglio
-
-Legajo: 61163
+Es un patrón de diseño de comportamiento que 
+convierte una solicitud en un objeto independiente 
+que contiene toda la información sobre la solicitud. 
+Esta transformación te permite parametrizar los 
+métodos con diferentes solicitudes, retrasar o 
+poner en cola la ejecución de una solicitud y 
+soportar operaciones que no se pueden realizar.

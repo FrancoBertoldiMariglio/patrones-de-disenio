@@ -1,17 +1,5 @@
-# Patrones de diseño
-Repositorio para proyecto sobre patrones de diseño
+# Patron Abstract Factory
 
-## Patrones
-
-- Observer
-- Factory Method
-- Abstract Factory
-- Command
-- Builder
-- Chain of responsability
-
-## Autor
-
-Franco Bertoldi Mariglio
-
-Legajo: 61163
+Es un patrón de diseño creacional que nos 
+permite producir familias de objetos relacionados 
+sin especificar sus clases concretas.

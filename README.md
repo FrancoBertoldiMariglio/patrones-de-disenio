@@ -1,17 +1,7 @@
-# Patrones de diseño
-Repositorio para proyecto sobre patrones de diseño
+# Patrone Chain of Responsability
 
-## Patrones
-
-- Observer
-- Factory Method
-- Abstract Factory
-- Command
-- Builder
-- Chain of responsability
-
-## Autor
-
-Franco Bertoldi Mariglio
-
-Legajo: 61163
+Es un patrón de diseño de comportamiento que te 
+permite pasar solicitudes a lo largo de una cadena de
+manejadores. Al recibir una solicitud, cada 
+manejador decide si la procesa o si la pasa al 
+siguiente manejador de la cadena.
